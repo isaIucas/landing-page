@@ -84,11 +84,6 @@ h5{
     margin:0;
 }
 
-.collin{
-    display:flex;
-    align-items: flex-end;
-}
-
 .section-four{
     display:flex;
     flex-direction:column;
